@@ -1,3 +1,3 @@
-# Kata 6: L-Bracket Manufacturing 
+# Kata 8: Cylindrical Parts Manufacturing 
 
-Using the [L Bracket Gusset CAD Model](Kata_1_L_Bracket_Gusset_CAD.md) you created previously, manufacture the L-Bracket using an NC Router.
+Using the [Cylindrical Parts CAD Model](Kata_2_Cylindrical_Parts_CAD.md) you created previously, manufacture the tube axle part on a manual lathe.

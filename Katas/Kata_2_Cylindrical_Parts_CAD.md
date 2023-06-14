@@ -1,5 +1,5 @@
-# Kata 1
+# Kata 2: Cylindrical Parts  
 
-Create a CAD model of an L-Bracket. Each leg of the L should be 1" wide, and 2.75" long. Include a hole pattern on each leg on 1/2" pitch. Holes should be .201" DIA. Set up your model so that the length of the legs can be indiviually changed easily. When the length of a leg changes, the 1/2" pitch hole pattern should automatically update to reflect the new length. Include fillets on all convex and concave corners. The fillet radius should be 1/16". Set up your model so that the fillet radius on all corners can be easily changed to 1/8".
+Create a CAD model of the 1/2" OD Round Tube Axle (217-3311) component part shown in the [VEX Linear Slide Kit Drawing](VEX_Linear_Slide_Kit.pdf). Make the outer diameter 0.498" and the inner diameter 0.258". Make its length 1".
 
 Mentor Time: TBD
